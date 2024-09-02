@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="137e6932-7050-434f-bcf9-0c00af243027" name="Changes" comment="Proyecto de Suma">
-      <change afterPath="$PROJECT_DIR$/Suma_V1_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="137e6932-7050-434f-bcf9-0c00af243027" name="Changes" comment="Proyecto de Suma v1_0" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="75065077 &lt;75065077@continental.edu.pe&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
@@ -35,6 +37,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Suma_V1_1.executor": "Run",
+    "Python.Suma_V1_2.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -89,12 +92,65 @@
       <option name="project" value="LOCAL" />
       <updated>1725319065801</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Proyecto de Suma v1_1">
+      <option name="closed" value="true" />
+      <created>1725320278983</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725320278983</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Proyecto de Suma v1_1">
+      <option name="closed" value="true" />
+      <created>1725320382607</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1725320382607</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Proyecto de Suma v1_1">
+      <option name="closed" value="true" />
+      <created>1725320456633</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1725320456633</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Proyecto de Suma v1_1">
+      <option name="closed" value="true" />
+      <created>1725320501018</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1725320501018</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Proyecto de Suma v1_2 en P0O">
+      <option name="closed" value="true" />
+      <created>1725320836612</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1725320836612</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Proyecto de Suma v1_0">
+      <option name="closed" value="true" />
+      <created>1725320881523</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1725320881523</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Proyecto de Suma" />
-    <option name="LAST_COMMIT_MESSAGE" value="Proyecto de Suma" />
+    <MESSAGE value="Se añadio Suma v1_1" />
+    <MESSAGE value="Se añadio v1_1" />
+    <MESSAGE value="Proyecto de Suma v1_1" />
+    <MESSAGE value="Proyecto de Suma v1_2 en P0O" />
+    <MESSAGE value="Proyecto de Suma v1_0" />
+    <option name="LAST_COMMIT_MESSAGE" value="Proyecto de Suma v1_0" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
